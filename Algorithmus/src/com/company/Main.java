@@ -1,5 +1,9 @@
 package com.company;
 
+// Schreiben Sie ein Java-Programm “Logarithmus”, welches zwei int Zahlen x und b als Programm-Parameter
+// nimmt und die größte int Zahl n berechnet, so dass b^n ≤ x gilt. Geben Sie n auf der Konsole aus. 
+// Sie können davon ausgehen, dass b > 1 und x ≥ 1 gilt.
+
 public class Main {
 
     public static void main(String [] args) {
